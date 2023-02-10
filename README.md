@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 \begin{table}[]
 \begin{tabular}{lccccc}
 \textbf{HORA} & \textbf{LUNES}             & \textbf{MARTES}            & \textbf{MIERCOLES}         & \textbf{JUEVES}            & \textbf{VIERNES}       \\
