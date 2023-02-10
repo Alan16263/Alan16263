@@ -1,12 +1,11 @@
 ### Hi there 👋
 Estudiante del Insitituto Tecnologico de Tijuana
 Carrera de Sistemas
-
-´´´
+```
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
-´´´
+```
 
 -->
 | HORA        |       LUNES       |       MARTES      |     MIERCOLES     |       JUEVES      |    VIERNES    |
