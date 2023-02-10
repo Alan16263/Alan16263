@@ -14,15 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-\begin{table}[]
-\begin{tabular}{lccccc}
-\textbf{HORA} & \textbf{LUNES}             & \textbf{MARTES}            & \textbf{MIERCOLES}         & \textbf{JUEVES}            & \textbf{VIERNES}       \\
-14:00-15:00   & \textbf{ANALISIS 91L4}     & \textbf{ANALISIS 9308}     & \textbf{ANALISIS 91L4}     & \textbf{ANALISIS 9308}     & \textbf{ANALISIS 9308} \\
-15:00-16:00   & \textbf{INTELIGENCIA LCLI} & \textbf{INTELIGENCIA 9206} & \textbf{INTELIGENCIA 9205} & \textbf{INTELIGENCIA LCLI} &                        \\
-16:00-17:00   & \textbf{PATRONES LCLI}     & \textbf{PATRONES 9306}     & \textbf{PATRONES LCLI}     & \textbf{PATRONES 9306}     & \textbf{PATRONES 9306} \\
-17:00-18:00   & \textbf{SISTEMAS LCLB}     & \textbf{SISTEMAS 91L2}     & \textbf{SISTEMAS LCLB}     & \textbf{SISTEMAS 91L2}     & \textbf{}              \\
-18:00-19:00   & \textbf{TALLER 9301}       & \textbf{TALLER 9301}       & \textbf{TALLER 9301}       & \textbf{TALLER 9301}       & \textbf{}              \\
-19:00-20:00   & \textbf{WEB}               & \textbf{WEB}               & \textbf{WEB}               & \textbf{WEB}               & \textbf{WEB}          
-\end{tabular}
-\end{table}
+| HORA        |       LUNES       |       MARTES      |     MIERCOLES     |       JUEVES      |    VIERNES    |
+|-------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-------------:|
+| 14:00-15:00 |   ANALISIS 91L4   |   ANALISIS 9308   |   ANALISIS 91L4   |   ANALISIS 9308   | ANALISIS 9308 |
+| 15:00-16:00 | INTELIGENCIA LCLI | INTELIGENCIA 9206 | INTELIGENCIA 9205 | INTELIGENCIA LCLI |               |
+| 16:00-17:00 |   PATRONES LCLI   |   PATRONES 9306   |   PATRONES LCLI   |   PATRONES 9306   | PATRONES 9306 |
+| 17:00-18:00 |   SISTEMAS LCLB   |   SISTEMAS 91L2   |   SISTEMAS LCLB   |   SISTEMAS 91L2   |               |
+| 18:00-19:00 |    TALLER 9301    |    TALLER 9301    |    TALLER 9301    |    TALLER 9301    |               |
+| 19:00-20:00 |        WEB        |        WEB        |        WEB        |        WEB        |      WEB      |
