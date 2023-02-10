@@ -1,7 +1,6 @@
 ### Hi there 👋
 - Estudiante del Insitituto Tecnologico de Tijuana
 - Carrera de Sistemas Computacionales
-- *[Insignias](#insignias)
 ```
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
