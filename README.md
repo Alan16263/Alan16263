@@ -7,7 +7,7 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
--->
+-->HORARIO
 | HORA        |       LUNES       |       MARTES      |     MIERCOLES     |       JUEVES      |    VIERNES    |
 |-------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-------------:|
 | 14:00-15:00 |   ANALISIS 91L4   |   ANALISIS 9308   |   ANALISIS 91L4   |   ANALISIS 9308   | ANALISIS 9308 |
