@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Estudiante del Insitituto Tecnologico de Tijuana
 - Carrera de Sistemas Computacionales
-```
+```C#
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
