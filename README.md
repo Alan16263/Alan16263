@@ -12,9 +12,5 @@ puts markdown.to_html
 |     HORA    |      LUNES     |     MARTES     |    MIERCOLES   |     JUEVES     |     VIERNES    |
 |:-----------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
 | 08:30-13:00 |Practica-Enerser|Practica-Enerser|Practica-Enerser|Practica-Enerser|Practica-Enerser|
-| 14:00-15:00 |    WEB 9303    |    WEB 9303    |    WEB 9303    |    WEB 9303    |    WEB 9303    |
-| 14:00-15:00 |    WEB 9303    |    WEB 9303    |    WEB 9303    |    WEB 9303    |    WEB 9303    |
-| 15:00-16:00 |   INNOVA 91L3  |   INNOVA 91L3  |   INNOVA 91L3  |   INNOVA 91L3  |   INNOVA 91L2  |
-| 16:00-17:00 |   REDES 9310   |   REDES 9310   |   REDES 9310   |   REDES 9310   |                |
-| 17:00-18:00 |   DISEÑO 9303  |   DISEÑO 9303  |   DISEÑO 9303  |   DISEÑO 9303  |   DISEÑO 9303  |
-| 18:00-19:00 | FORMACION 9305 | FORMACION 9305 | FORMACION 9305 | FORMACION 9305 | FORMACION 9305 |
+| 17:00-18:00 | FORM.PROF 91L2 | FORM.PROF 91L2 | FORM.PROF 91L2 | FORM.PROF 91L2 | FORM.PROF 91L2 |
+| 18:00-19:00 |  MOVILES  91L3 |  MOVILES  91L3 |  MOVILES  91L3 |  MOVILES  91L3 |  MOVILES  91L3 |
